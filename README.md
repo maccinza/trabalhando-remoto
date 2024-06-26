@@ -50,6 +50,7 @@ Dúvidas ou sugestões? Inicie ou encontre uma [discussão](https://github.com/D
 - [Remote Index](https://remoteindex.co/)
 - [Remotive](https://remotive.com/)
 - [JustRemote](https://justremote.co/)
+- [Sigma Software](https://career.sigma.software/sigma-software-latin-america/)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?lc=home%20office)
